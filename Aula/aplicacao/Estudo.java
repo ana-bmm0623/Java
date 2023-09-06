@@ -14,7 +14,7 @@ public class Estudo {
         System.out.println("Imprimindo vetor");
 
         for (int i : vetor1) {
-            System.out.print(vetor1[i] + " ");
+            System.out.print(i + " ");
         }
 
         leitor.close();
